@@ -1,7 +1,7 @@
-# Welcome to the Public Repository of [Your Organization]
+# Welcome to the Public Repository of CTS Co., Ltd.
 
 ## About Us
-Welcome to the official public repository of [Your Organization]. We are a dedicated team working on innovative projects in the field of [Your Field/Industry]. This repository is designed to share some of our work with the community and foster collaboration.
+Welcome to the official public repository of CTS Co., Ltd. We are a dedicated team working on innovative projects in the field of [Your Field/Industry]. This repository is designed to share some of our work with the community and foster collaboration.
 
 ## Projects
 In this repository, you'll find:
